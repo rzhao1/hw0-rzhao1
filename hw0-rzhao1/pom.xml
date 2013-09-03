@@ -6,6 +6,7 @@
   <scm>
   	<connection>scm:git:git://github.com/rzhao1/hw0-rzhao1.git</connection>
   	<developerConnection>scm:git:git://github.com/rzhao1/hw0-rzhao1.git</developerConnection>
+  	<url>scm:git:git://github.com/rzhao1/hw0-rzhao1.git</url>
   </scm>
   <dependencies>
   	<dependency>
