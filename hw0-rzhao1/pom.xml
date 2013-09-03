@@ -5,8 +5,7 @@
   <version>0.0.1</version>
   <scm>
     <connection>scm:git:git@github.com:rzhao1/hw0-rzhao1.git</connection>
-    <developerConnection>scm:git:git@github.com:rzhao1/hw0-
-        rzhao1.git</developerConnection>
+    <developerConnection>scm:git:git@github.com:rzhao1/hw0-rzhao1.git</developerConnection>
   </scm>
   <repositories><repository>
     <id>deployment</id>
