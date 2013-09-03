@@ -4,8 +4,8 @@
   <artifactId>hw0-rzhao1</artifactId>
   <version>0.0.1</version>
   <scm>
-  	<connection>scm:git:https://github.com/rzhao1/hw0-rzhao1.git</connection>
-  	<developerConnection>scm:git:https://github.com/rzhao1/hw0-rzhao1.git</developerConnection>
+  	<connection>scm:https://github.com/rzhao1/hw0-rzhao1.git</connection>
+  	<developerConnection>scm:https://github.com/rzhao1/hw0-rzhao1.git</developerConnection>
   	<url>scm:git:https://github.com/rzhao1/hw0-rzhao1.git</url>
   </scm>
   <dependencies>
